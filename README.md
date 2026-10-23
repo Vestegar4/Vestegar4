@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm vestegar Welcome to my GitHub profile.<br>I'm currently learning Python. <br>This GitHub serves as a place to document my learning journey, share projects, and continuously improve my programming. <br>
+Hi, I'm Tegar Maulana Akbar, my current major is Informatics Engineering.
+Welcome to my GitHub profile.<br>I'm currently learning Python. <br>This GitHub serves as a place to document my learning journey, share projects, and continuously improve my programming. <br>
 
 
 ## 🌐 Socials:
